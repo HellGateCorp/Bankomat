@@ -1,2 +1,2 @@
 # Bankomat
-Its a simple Teller Machine Interface that I created to learn more about and how to realize it in Java.
+Its a simple terminal related ATM-Interface I had created to learn more about and how to realize it as a Java based Backend. 🏦💰💵
